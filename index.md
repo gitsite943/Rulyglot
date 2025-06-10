@@ -1,13 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Ryluglot</title>
-   <link rel="stylesheet" href="/assets/css/build.css">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
-    <!-- HEADER -->
+---
+layout: default
+title: Home
+---
+
+
+  <!-- HEADER -->
   <header class="fixed top-0 inset-x-0 z-50 bg-white shadow">
     <nav class="w-full p-4 lg:px-8" aria-label="Global">
 
@@ -283,7 +280,7 @@
     <div class="max-w-md w-full rounded-3xl border border-gray-200 shadow-xl p-8 text-center">
       <h3 id="tier-single" class="text-lg font-semibold text-indigo-600">Single Session</h3>
       <p class="mt-4 flex justify-center items-baseline gap-x-2">
-        <span class="text-5xl font-bold tracking-tight text-gray-900">$26</span>
+        <span class="text-5xl font-bold tracking-tight text-gray-900">$25</span>
         <span class="text-base text-gray-500">/ one-time</span>
       </p>
       <p class="mt-4 text-gray-600 text-base">
@@ -392,30 +389,3 @@
   </div>
 </footer>
 
-
-    <script>console.log("✅ JavaScript is loaded and running!");
-const openMenu = document.getElementById('open-menu');
-const closeMenu = document.getElementById('close-menu');
-const mobileMenu = document.getElementById('mobile-menu');
-
-// Disable body scroll when menu opens
-openMenu?.addEventListener('click', () => {
-  mobileMenu.classList.remove('hidden');
-  document.body.style.overflow = 'hidden'; // <--- hides scrollbar
-});
-
-// Enable body scroll when menu closes
-closeMenu?.addEventListener('click', () => {
-  mobileMenu.classList.add('hidden');
-  document.body.style.overflow = ''; // <--- restores scroll
-});
-
-// Optional: Also close menu if a mobile link is clicked
-document.querySelectorAll('.mobile-menu-link').forEach(link => {
-  link.addEventListener('click', () => {
-    mobileMenu.classList.add('hidden');
-    document.body.style.overflow = '';
-  });
-}); </script>
-  </body>
-</html>
