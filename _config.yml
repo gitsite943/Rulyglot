@@ -1,0 +1,10 @@
+title: My Custom Theme 
+description: Built with using Jekyll 
+
+include:
+  - assets
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

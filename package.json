@@ -1,0 +1,18 @@
+{
+  "name": "my-yo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "postcss assets/css/input.css -o assets/css/build.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  },
+  "devDependencies": {
+    "postcss-cli": "^11.0.1"
+  }
+}
