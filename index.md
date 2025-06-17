@@ -332,7 +332,9 @@ title: Home
           How does the one-on-one lesson work?
         </div>
         <div class="px-5 pb-5">
-          <p class="text-gray-600">Each session is a live, 60-minute video call with me — a native Russian speaker. We focus on real speaking skills tailored to your level and goals.</p>
+          <p class="text-gray-600">
+            Each session is a live, 60-minute video call with me — a native Russian speaker. We focus on real speaking skills tailored to your level and goals.
+          </p>
         </div>
       </div>
 
@@ -342,7 +344,9 @@ title: Home
           Do I need to prepare anything before the lesson?
         </div>
         <div class="px-5 pb-5">
-          <p class="text-gray-600">No preparation needed. Just show up — I’ll guide the session based on your level, whether you're a total beginner or already learning.</p>
+          <p class="text-gray-600">
+            No preparation needed. Just show up — I’ll guide the session based on your level, whether you're a total beginner or already learning.
+          </p>
         </div>
       </div>
 
@@ -352,7 +356,21 @@ title: Home
           What if I don’t see progress?
         </div>
         <div class="px-5 pb-5">
-          <p class="text-gray-600">If you're not satisfied or don’t feel like you're making progress, I’ll give you a full refund — no questions asked.</p>
+          <p class="text-gray-600">
+            If you're not satisfied or don’t feel like you're making progress, I’ll give you a full refund — no questions asked.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 4 -->
+      <div class="border border-gray-200 rounded-lg">
+        <div class="p-5 text-left text-gray-900 font-medium text-lg">
+          Can I reschedule or cancel a lesson?
+        </div>
+        <div class="px-5 pb-5">
+          <p class="text-gray-600">
+            Absolutely. You can reschedule or cancel up to 24&nbsp;hours in advance at no cost. Inside that window, just drop me a message and we’ll find a solution that works.
+          </p>
         </div>
       </div>
     </div>
