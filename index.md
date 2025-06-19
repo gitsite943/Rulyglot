@@ -18,7 +18,7 @@ title: Home
         </a>
 
         <!-- Mobile: Free Lesson button -->
-        <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="rounded-md bg-indigo-600 px-4 py-2 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
+        <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="rounded-md bg-indigo-600 px-4 py-2 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
           Free Lesson
         </a>
 
@@ -49,7 +49,7 @@ title: Home
         </div>
 
         <!-- Desktop: Free Lesson button -->
-        <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="rounded-md bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
+        <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="rounded-md bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
           Free Lesson
         </a>
       </div>
@@ -82,7 +82,7 @@ title: Home
         </div>
     <!-- Free Lesson Button -->
 <div class="mt-6">
-  <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="block w-full rounded-md bg-indigo-600 px-4 py-3 text-center text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
+  <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="block w-full rounded-md bg-indigo-600 px-4 py-3 text-center text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
     Free Lesson
   </a>
 </div>
@@ -101,7 +101,7 @@ title: Home
        Tired of apps that promise fluency but leave you stuck? I work one-on-one as a native speaker to help you actually speak Russian — for real. No classrooms. No stress. And if you’re not seeing results, money back guaranteed.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6">
-        <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="rounded-md bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
+        <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="rounded-md bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow hover:bg-indigo-700 transition">
           Free Lesson
         </a>
       </div>
@@ -312,7 +312,7 @@ title: Home
           Try it first — pay only if you choose to continue
         </li>
       </ul>
-      <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="mt-8 inline-block w-full rounded-md bg-indigo-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">Book A Free Lesson</a>
+      <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="mt-8 inline-block w-full rounded-md bg-indigo-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">Book A Free Lesson</a>
     </div>
   </div>
 </div>
@@ -388,7 +388,7 @@ title: Home
       Start with one free lesson — and see real progress from day one.
     </p>
     <div class="flex justify-center">
-      <a href="https://app.simplymeet.me/freelesson/freelesson-60-1748621659929" class="bg-indigo-600 text-white font-semibold px-6 py-3 rounded-md shadow hover:bg-indigo-700 transition">
+      <a href="https://app.simplymeet.me/rulyglot/rulyglot-60-1750324717244" class="bg-indigo-600 text-white font-semibold px-6 py-3 rounded-md shadow hover:bg-indigo-700 transition">
         Free Lesson
       </a>
     </div>
