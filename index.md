@@ -55,8 +55,8 @@ title: Home
       </div>
     </nav>
 
-    <!-- MOBILE MENU (sliding panel) -->
-    <div id="mobile-menu" class="hidden fixed inset-y-0 right-0 z-50 w-full bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+   <!-- MOBILE MENU (sliding panel) -->
+    <div id="mobile-menu" class="hidden fixed inset-0 z-50 bg-white px-6 py-6 flex flex-col">
       <div class="flex items-center justify-between">
         <!-- Mobile menu: logo + brand name -->
 <a href="#" class="flex items-center gap-x-2 -m-1.5 p-1.5">
